@@ -1,0 +1,22 @@
+h1{
+    color: blue;
+    background-color: yellow;
+    text-align: center;
+    font-weight: bold;
+}
+
+.list.order{
+    color: rgb(255, 19, 123);
+    background-color: lightgreen;
+}
+
+img.pic{
+    height: 400px;
+    width: 500px;
+    
+}
+
+ul li a{
+    color: pink;
+    background-color: black;
+}
